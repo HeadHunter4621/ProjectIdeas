@@ -1,7 +1,7 @@
 # Marvin PhotonVision Setup
 Use ArduCams and PhotonVision to test different types of vision software
 ## Goals
-- Mount ArduCams and BeeLink to Marvin to run PhotonVison
+- Mount ArduCams and BeeLink to Marvin to run PhotonVision
   - Give software practice with working with Linux (BeeLink), other tools that we aren't familiar with (MRCal, PhotonVision, ArduCam)
   - Run pose estimation for Reefscape field? Unsure exactly
 ## Parts Required: 

@@ -10,7 +10,7 @@
   - ROBOTS PAGE!!
     - Add older robots (pre-2013)
       - Ask mentors about what happened then/why there isn't anything older
-      - Also why did so many things start in 2014? It seems like it was kinda like the start of the team for some reasson
+      - Also why did so many things start in 2014? It seems like it was kinda like the start of the team for some reason
     - Info about attended competitions and awards
     - Photos (all of them should have one, some should be better too (Chi is an example, it doesn't really show the robot))
     - Better descriptions
