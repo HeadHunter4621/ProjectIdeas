@@ -8,7 +8,5 @@
  - Learn about how older robots were designed/constructed and learn from this
 ## Tasks
 - Examine, repair, and test Byter
-  - Replace cRio with the RoboRio with broken USB ( it will be removed by the end of the offseason so we won't have to buy a new one)
-    - Talk with Electrical about if it would be possible to use cRio
-      - I doubt it's possible since it was directly discouraged by a 2974 mentor, also it would make things more complicated
+  - Replace cRio with the RoboRio with broken USB (it will be removed by the end of the offseason so we won't have to buy a new one)
   - Make sure motors all spin and Jaguars all work
