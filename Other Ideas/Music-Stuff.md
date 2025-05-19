@@ -14,6 +14,7 @@
     - https://support.google.com/youtubemusic/answer/14729358?hl=en#zippy=%2Capple-music This is interesting
 - Use YT-DLP to download the playlists to NAS (in separate folders)
   - Need to figure out filetype changing, destination setting, etc.
+    - `yt-dlp -f ba -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"`
 - Configure iTunes to use NAS as file server (or something like that)
   - https://support.apple.com/guide/itunes/change-where-files-are-stored-itns2999/windows
 - Transfer playlists from iTunes to iPod
