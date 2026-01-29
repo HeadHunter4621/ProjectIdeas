@@ -1,0 +1,23 @@
+---
+bank:
+  vowels:
+    - "a"
+    - "i"
+  consonants:
+    - "k"
+    - "s"
+  ends:
+  other:
+phonemes:
+  "a":
+    start: "a"
+    end: "a"
+  "i":
+    start: "i"
+    end: "i"
+  "ka":
+    start: "k"
+    end: "a"
+  "sa":
+    start: "s"
+    end: "s"
