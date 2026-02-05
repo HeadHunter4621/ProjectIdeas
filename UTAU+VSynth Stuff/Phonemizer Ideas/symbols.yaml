@@ -1,0 +1,8 @@
+symbols:
+  - {symbol: a, type: vowel }
+  - {symbol: i, type: vowel }
+  - {symbol: u, type: vowel }
+  - {symbol: e, type: vowel }
+  - {symbol: o, type: vowel }
+  - {symbol: N, type: vowel }
+  - {symbol: k, type: consonant}
