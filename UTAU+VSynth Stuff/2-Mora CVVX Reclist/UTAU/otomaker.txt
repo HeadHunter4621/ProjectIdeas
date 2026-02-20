@@ -1,0 +1,304 @@
+a	a
+i	i
+u	u
+e	e
+o	o
+N	N
+ae	ae
+ah	ah
+ao	ao
+er	er
+ih	ih
+uh	uh
+
+k_ka-ka	- k,a k,ka
+k_ki-ka	i k
+k_ku-ku	u k,ku
+k_ke-ke	e k,ke
+k_ko-ko	o k,ko
+k_N-ka	N k
+k_ka-k	k -
+
+ky_kya-kya	- ky,a ky,kya
+ky_ki-ki	i ky,ki
+ky_kyu-kyu	u ky,kyu
+ky_kye-kye	e ky,kye
+ky_kyo-kyo	o ky,kyo
+ky_N-kya	N ky
+
+g_ga-ga	- g,a g,ga
+g_gi-ga	i g
+g_gu-gu	u g,gu
+g_ge-ge	e g,ge
+g_go-go	o g,go
+g_N-ga	N g
+g_ga-g	g -
+
+gy_gya-gya	- gy,a gy,gya
+gy_gi-gi	i gy,gi
+gy_gyu-gyu	u gy,gyu
+gy_gye-gye	e gy,gye
+gy_gyo-gyo	o gy,gyo
+gy_N-gya	N gy
+
+s_sa-sa	- s,a s,sa
+s_si-si	i s,si
+s_su-su	u s,su
+s_se-se	e s,se
+s_so-so o s,so
+s_N-sa	N s
+s_sa-s	s -
+
+sh_sha-sha	- sh,a sh,sha
+sh_shi-shi	i sh,shi
+sh_shu-shu	u sh,shu
+sh_she_she	e sh,she
+sh_sho-sho	o sh,sho
+sh_N-shi	N sh
+sh_shi-sh	sh -
+
+z_za-za	- z,a z,za
+z_zi-zi	i z,zi
+z_zu-zu	u z,zu
+z_ze-ze	e z,ze
+z_zo-zo	o z,zo
+z_N-za	N z
+z_za-z	z -
+
+j_ja-ja	- j,a j,ja
+j_ji-ji	i j,ji
+j_ju-ju	u j,ju
+j_je_je	e j,je
+j_jo-jo	o j,jo
+j_N-ji	N j
+j_ji-j	j -
+
+t_ta-ta	- t,a t,ta
+t_ti-ti	i t,ti
+t_tu-tu u t,tu
+t_te-te	e t,te
+t_to-to	o t,to
+t_N-ta	N t
+t_ta-t	- t
+
+ts_tsa-tsa	- ts,a ts,tsa
+ts_tsi-tsi	i ts,tsi
+ts_tsu-tsu	u ts,tsu
+ts_tse-tse	e ts,tse
+ts_tso-tso	o ts,tso
+ts_N-tsu	N ts
+ta_tsu-ts	ts -
+
+ch_cha-cha	- ch,a ch,cha
+ch_chi-chi	i ch,chi
+ch_chu-chu	u ch,chu
+ch_che-che	e ch,che
+ch_cho-cho	o ch,cho
+ch_N-chi	N ch
+ch_chi-ch	ch -
+
+d_da-da	- d,a d,da
+d_di-di	i d,di
+d_du-du	u d,du
+d_de-de	e d,de
+d_do-do	o d,do
+d_N-da	N d
+d_da-d	d -
+
+dz_dza-dza	- dz,a dz,dza
+dz_dzi-dzi	i dz,dzi
+dz_dzu-dzu	u dz,dzu
+dz_dze-dze	e dz,dze
+dz_dzo-dzo	o dz,dzo
+dz_N-dzu	N dz
+dz_dzu-dz	dz -
+
+dj_dja-dja	- dj,a dj,dja
+dj_dji-dji	i dj,dji
+dj_dju-dju	u dj,dju
+dj_dje-dje	e dj,dje
+dj_djo-djo	o dj,djo
+dj_N-dji	N dj
+dj_dji-dj	dj -
+
+n_na-na	- n,a n,na
+n_ni-na	i n
+n_nu-nu	u n,nu
+n_ne-ne	e n,ne
+n_no-no	o n,no
+n_N-na	N n
+n_na-n	n -
+
+ny_nya-nya	- ny,a ny,nya
+ny_ni-ni	i ny,ni
+ny_nyu-nyu	u ny,nyu
+ny_nye-nye	e ny,nye
+ny_nyo-nyo	o ny,nyo
+ny_N_nya	N ny
+
+h_ha-ha	- h,a h	ha
+h_hi-ha	i h
+h_hu-hu	u h,hu
+h_he-he	e h,he
+h_ho-ho	o h,ho
+h_N-ha	N h
+h_ha-h	h -
+
+hy_hya-hya	- hy,a hy,hya
+hy_hi-hi	i hy,hi
+hy_hyu-hyu	u hy,hyu
+hy_hye-hye	e hy,hye
+hy_hyo-hyo	o hy,hyo
+hy_N-hya	N hy
+
+b_ba-ba	- b,a b,ba
+b_bi-ba	i b
+b_bu-bu	u b,bu
+b_be-be	e b,be
+b_bo-bo	o b,bo
+b_N-ba	N b
+b_ba-b	b -
+
+by_bya-bya	- by,a by,bya
+by_bi-bi	i by,bi
+by_byu-byu	u by,byu
+by_bye-bye	e by,bye
+by_byo-byo	o by,byo
+by_N-bya	N by
+
+p_pa-pa	- p,a p,pa
+p_pi-pa	i p
+p_pu-pu	u p,pu
+p_pe-pe	e p,pe
+p_po-po	o p,po
+p_N-pa	N p
+p_pa-p	p -
+
+py_pya-pya	- py,a py,pya
+py_pi-pi	i py,pi
+py_pyu-pyu	u py,pyu
+py_pye-pye	e py,pye
+py_pyo-pyo	o py,pyo
+py_N-pya	N py
+
+f_a-fu	a f
+f_i-fu	i f
+f_fu-fu - f,u f,fu
+f_e-fu	e f
+f_o-fu	o f
+f_N-fu	N fu
+f_fu-f	f -
+
+ff_ffa-ffa	- ff,a ff,ffa
+ff_ffi-ffi	i ff,ffi
+ff_ffu-ffu	u ff,ffu
+ff_ffe-ffe	e ff,ffe
+ff_ffo-ffo	o ff,ffo
+ff_N-ffa	N ff
+ff_ffa-ff	ff -
+
+m_ma-ma	- m,a m,ma
+m_mi-ma	i m
+m_mu-mu	u m,mu
+m_me-me	e m,me
+m_mo-mo	o m,mo
+m_N-ma	N m
+m_ma-m	m -
+
+my_mya-mya	- my,a my,mya
+my_mi-mi	i my,mi
+my_myu-myu	u my,myu
+my_mye-mye	e my,mye
+my_myo-myo	o my,myo
+my_N-mya	N my
+
+y_ya-ya	- y,a y,ya
+y_i-ya	i y
+y_yu-yu	u y,yu
+y_ye-ye	e y,ye
+y_yo-yo	o y,yo
+y_N-ya	N y
+y_ya-y	y -
+
+r_ra-ra	- r,a r,ra
+r_ri-ra	i r
+r_ru-ru	u r,ru
+r_re-re	e r,re
+r_ro-ro	o r,ro
+r_N-ra	N r
+r_ra-r	r -
+
+ry_rya-rya	- ry,a ry,rya
+ry_ri-ri	i ry,ri
+ry_ryu-ryu	u ry,ryu
+ry_rye-rye	e ry,rye
+ry_ryo-ryo	o ry,ryo
+ry_N-rya	N ry
+
+w_wa-wa	- w,a w,wa
+w_wi-wi	i w,wi
+w_u_wa	u w
+w_we-we	e w,we
+w_wo-wo	o w,wo
+w_N-wa	N w
+w_wa-w	w -
+
+rr_rra-rra	- rr,a rr,rra
+rr_rri-rri	i rr,rri
+rr_rru-rru	u rr,rru
+rr_rre-rre	e rr,rre
+rr_rro-rro	o rr,rro
+rr_N-rra	N rr
+
+l_la-la	- l,a l,la
+l_li-li	i l,li
+l_lu-lu	u l,lu
+l_le-le	e l,le
+l_lo-lo	o l,lo
+l_N-la	N l
+
+wr_wra-wra	- wr,a wr,wra
+wr_wri-wri	i wr,wri
+wr_wru-wru	u wr,wru 
+wr_wre-wre	e wr,wre
+wr_wro-wro	o wr,wro
+wr_N-wra	N wr
+wr_wra-wr	wr -
+
+th_tha-tha	- th,a th,tha
+th_thi-thi	i th,thi
+th_thu-thu	u th,thu
+th_the-the	e th,the
+th_tho-tho	o th,tho
+th_N-tha	N th
+th_tha-th	th -
+
+dh_dha-dha	- dh,a dh,dha 
+dh_dhi-dhi	i dh,dhi
+dh_dhu-dhu	u dh,dhu
+dh_dhe-dhe	e dh,dhe
+dh_dho-dho	o dh,dho
+dh_N-dha	N dh
+dh_dha-dh	dh -
+
+a-a-i-a-u-a	- a,a a,a i,i a,a u,u a,a -
+i-i-u-i-e-i	- i,i i,i u,u i,i e,e i,i -
+u-u-e-u-o-u	- u,u u,u e,e u,u o,o u,u -
+e-e-o-e-a-e	- e,e e,e o,o e,e a,a e,e -
+o-o-a-o-i-o	- o,o o,o a,a o,o i,i o,o -
+
+N_N-N-a-N-i-N	- N,N N,N a,a N,N i,i N,N -
+N_N-u-N-e-N-o-N	N u,u N,N e,e N,N o,o N
+
+a'a-fr	a ',' a,a Fr
+a-In-a-Ex	a In,a Ex
+i'i-fr	i ',' i,i Fr
+i-In-i-Ex	i In,i Ex
+u'u-fr	u ',' u,u Fr
+u-In-u-Ex	u In,u Ex
+e'e-fr	e ',' e,e Fr
+e-In-e-Ex	e In,e Ex
+o'o-fr	o ',' o,o Fr
+o-In-o-Ex	o In,o Ex
+N'N-fr	N ',' N,N Fr
+N-In-N-Ex	N In,N Ex
