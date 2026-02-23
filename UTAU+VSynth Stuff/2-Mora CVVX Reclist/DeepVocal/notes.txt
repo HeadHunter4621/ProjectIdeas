@@ -1,1 +1,28 @@
-Note: [-CV] phonemes can be taken from first part of CV but aren't really needed very often imo
+This is an example specifically for [k], but this applies to all consonants that can have a [y] after them.
+
+Recording   Phonemes (in order)
+k_ka-ka     [-ka] [a_k] [ka]
+k_ki-ka     [i_k]
+k_ku-ku     [-ku] [u_k] [ku]
+k_ke-ke     [-ke] [e_k] [ke]
+k_ko-ko     [-ko] [o_k] [ko]
+k_N-ka      [N_k]
+k'_kya-kya  [-kya] [a_k'] [kya]
+k'_ki-ki    [-ki] [i_k'] [ki]
+k'_kyu-kyu  [-kyu] [u_k'] [kyu]
+k'_kye-kye  [-kye] [e_k'] [kye]
+k'_kyo-kyo  [-kyo] [o_k'] [kyo]
+k'_N-kya    [N_k']
+
+As you can see, [ki] comes from the [k'] group.
+
+
+The standalone vowel recordings are where the standalone vowelss come from (ex. a.wav is only [a]). All VV phonemes and [-V]/[V-] come from the longer VV phonemes
+
+syllabic [N] is always capitalized.
+
+The [dj] consonant is the consonant in ぢ and can be omitted if desired
+
+['] is a glottal stop (treated like a normal consonant) and [Fr] is vocal fry. Both of these can also be omitted if deemed unnecessary.
+
+[In] is an inhale, [Ex] is an exhale (they are independent symbols)

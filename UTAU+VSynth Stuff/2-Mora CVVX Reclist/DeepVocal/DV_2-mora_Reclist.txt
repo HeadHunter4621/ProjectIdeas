@@ -12,11 +12,12 @@ k_ke-ke
 k_ko-ko
 k_N-ka
 
-ky_kya-kya
-ky_ki-ki
-ky_kyu-kyu
-ky_kye-kye
-ky_kyo-kyo
+k'_kya-kya
+k'_ki-ki
+k'_kyu-kyu
+k'_kye-kye
+k'_kyo-kyo
+k'_N-kya
 
 g_ga-ga
 g_gi-ga
@@ -24,12 +25,13 @@ g_gu-gu
 g_ge-ge
 g_go-go
 g_N-ga
+g'_N-gya
 
-gy_gya-gya
-gy_gi-gi
-gy_gyu-gyu
-gy_gye-gye
-gy_gyo-gyo
+g'_gya-gya
+g'_gi-gi
+g'_gyu-gyu
+g'_gye-gye
+g'_gyo-gyo
 
 s_sa-sa
 s_si-si
@@ -99,6 +101,7 @@ dj_dji-dji
 dj_dju-dju
 dj_dje-dje
 dj_djo-djo
+dj_N-djo
 
 n_na-na
 n_ni-na
@@ -107,11 +110,12 @@ n_ne-ne
 n_no-no
 n_N-na
 
-ny_nya-nya
-ny_ni-ni
-ny_nyu-nyu
-ny_nye-nye
-ny_nyo-nyo
+n'_nya-nya
+n'_ni-ni
+n'_nyu-nyu
+n'_nye-nye
+n'_nyo-nyo
+n'_N-nya
 
 h_ha-ha
 h_hi-ha
@@ -120,11 +124,12 @@ h_he-he
 h_ho-ho
 h_N-ha
 
-hy_hya-hya
-hy_hi-hi
-hy_hyu-hyu
-hy_hye-hye
-hy_hyo-hyo
+h'_hya-hya
+h'_hi-hi
+h'_hyu-hyu
+h'_hye-hye
+h'_hyo-hyo
+h'_N-hya
 
 b_ba-ba
 b_bi-ba
@@ -133,11 +138,12 @@ b_be-be
 b_bo-bo
 b_N-ba
 
-by_bya-bya
-by_bi-bi
-by_byu-byu
-by_bye-bye
-by_byo-byo
+b'_bya-bya
+b'_bi-bi
+b'_byu-byu
+b'_bye-bye
+b'_byo-byo
+b'_N-bya
 
 p_pa-pa
 p_pi-pa
@@ -146,11 +152,12 @@ p_pe-pe
 p_po-po
 p_N-pa
 
-py_pya-pya
-py_pi-pi
-py_pyu-pyu
-py_pye-pye
-py_pyo-pyo
+p'_pya-pya
+p'_pi-pi
+p'_pyu-pyu
+p'_pye-pye
+p'_pyo-pyo
+p'_N-pya
 
 f_a-fu
 f_i-fu
@@ -166,17 +173,19 @@ m_me-me
 m_mo-mo
 m_N-ma
 
-my_mya-mya
-my_mi-mi
-my_myu-myu
-my_mye-mye
-my_myo-myo
+m'_mya-mya
+m'_mi-mi
+m'_myu-myu
+m'_mye-mye
+m'_myo-myo
+m'_N-mya
 
 y_ya-ya
 y_i-ya
 y_yu-yu
 y_ye-ye
 y_yo-yo
+y_N'ya
 
 r_ra-ra
 r_ri-ra
@@ -185,11 +194,12 @@ r_re-re
 r_ro-ro
 r_N-ra
 
-ry_rya-rya
-ry_ri-ri
-ry_ryu-ryu
-ry_rye-rye
-ry_ryo-ryo
+r'_rya-rya
+r'_ri-ri
+r'_ryu-ryu
+r'_rye-rye
+r'_ryo-ryo
+r'_N-rya
 
 w_wa-wa
 w_wi-wi
@@ -204,7 +214,6 @@ v_vu-vu
 v_ve-ve
 v_vo-vo
 v_N-vu
-v_vu-v
 
 a-a-i-a-u-a
 i-i-u-i-e-i
