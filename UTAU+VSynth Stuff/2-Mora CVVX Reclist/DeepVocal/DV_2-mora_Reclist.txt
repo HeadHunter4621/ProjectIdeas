@@ -1,17 +1,9 @@
-THIS IS STILL IN DEVELOPMENT! DONT USE IT YET!!
-
 a
 i
 u
 e
 o
 N
-ae
-ah
-ao
-er
-ih
-uh
 
 k_ka-ka
 k_ki-ka
@@ -19,14 +11,12 @@ k_ku-ku
 k_ke-ke
 k_ko-ko
 k_N-ka
-k_ka-k
 
 ky_kya-kya
 ky_ki-ki
 ky_kyu-kyu
 ky_kye-kye
 ky_kyo-kyo
-ky_N-kya
 
 g_ga-ga
 g_gi-ga
@@ -34,14 +24,12 @@ g_gu-gu
 g_ge-ge
 g_go-go
 g_N-ga
-g_ga-g
 
 gy_gya-gya
 gy_gi-gi
 gy_gyu-gyu
 gy_gye-gye
 gy_gyo-gyo
-gy_N-gya
 
 s_sa-sa
 s_si-si
@@ -49,7 +37,6 @@ s_su-su
 s_se-se
 s_so-so
 s_N-sa
-s_sa-s
 
 sh_sha-sha
 sh_shi-shi
@@ -57,7 +44,6 @@ sh_shu-shu
 sh_she_she
 sh_sho-sho
 sh_N-shi
-sh_shi-sh
 
 z_za-za
 z_zi-zi
@@ -65,7 +51,6 @@ z_zu-zu
 z_ze-ze
 z_zo-zo
 z_N-za
-z_za-z
 
 j_ja-ja
 j_ji-ji
@@ -73,7 +58,6 @@ j_ju-ju
 j_je_je
 j_jo-jo
 j_N-ji
-i_ji-j
 
 t_ta-ta
 t_ti-ti
@@ -81,7 +65,6 @@ t_tu-tu
 t_te-te
 t_to-to
 t_N-ta
-t_ta-t
 
 ts_tsa-tsa
 ts_tsi-tsi
@@ -89,7 +72,6 @@ ts_tsu-tsu
 ts_tse-tse
 ts_tso-tso
 ts_N-tsu
-ta_tsu-ts
 
 ch_cha-cha
 ch_chi-chi
@@ -97,7 +79,6 @@ ch_chu-chu
 ch_che-che
 ch_cho-cho
 ch_N-chi
-ch_chi-ch
 
 d_da-da
 d_di-di
@@ -105,7 +86,6 @@ d_du-du
 d_de-de
 d_do-do
 d_N-da
-d_da-d
 
 dz_dza-dza
 dz_dzi-dzi
@@ -113,15 +93,12 @@ dz_dzu-dzu
 dz_dze-dze
 dz_dzo-dzo
 dz_N-dzu
-dz_dzu-dz
 
 dj_dja-dja
 dj_dji-dji
 dj_dju-dju
 dj_dje-dje
 dj_djo-djo
-dj_N-dji
-dj_dji-dj
 
 n_na-na
 n_ni-na
@@ -129,14 +106,12 @@ n_nu-nu
 n_ne-ne
 n_no-no
 n_N-na
-n_na-n
 
 ny_nya-nya
 ny_ni-ni
 ny_nyu-nyu
 ny_nye-nye
 ny_nyo-nyo
-ny_N_nya
 
 h_ha-ha
 h_hi-ha
@@ -144,14 +119,12 @@ h_hu-hu
 h_he-he
 h_ho-ho
 h_N-ha
-h_ha-h
 
 hy_hya-hya
 hy_hi-hi
 hy_hyu-hyu
 hy_hye-hye
 hy_hyo-hyo
-hy_N-hya
 
 b_ba-ba
 b_bi-ba
@@ -159,14 +132,12 @@ b_bu-bu
 b_be-be
 b_bo-bo
 b_N-ba
-b_ba-b
 
 by_bya-bya
 by_bi-bi
 by_byu-byu
 by_bye-bye
 by_byo-byo
-by_N-bya
 
 p_pa-pa
 p_pi-pa
@@ -174,14 +145,12 @@ p_pu-pu
 p_pe-pe
 p_po-po
 p_N-pa
-p_pa-p
 
 py_pya-pya
 py_pi-pi
 py_pyu-pyu
 py_pye-pye
 py_pyo-pyo
-py_N-pya
 
 f_a-fu
 f_i-fu
@@ -189,15 +158,6 @@ f_fu-fu
 f_e-fu
 f_o-fu
 f_N-fu
-f_fu-f
-
-ff_ffa-ffa
-ff_ffi-ffi
-ff_ffu-ffu
-ff_ffe-ffe
-ff_ffo-ffo
-ff_N-ffa
-ff_ffa-ff
 
 m_ma-ma
 m_mi-ma
@@ -205,22 +165,18 @@ m_mu-mu
 m_me-me
 m_mo-mo
 m_N-ma
-m_ma-m
 
 my_mya-mya
 my_mi-mi
 my_myu-myu
 my_mye-mye
 my_myo-myo
-my_N-mya
 
 y_ya-ya
 y_i-ya
 y_yu-yu
 y_ye-ye
 y_yo-yo
-y_N-ya
-y_ya-y
 
 r_ra-ra
 r_ri-ra
@@ -228,14 +184,12 @@ r_ru-ru
 r_re-re
 r_ro-ro
 r_N-ra
-r_ra-r
 
 ry_rya-rya
 ry_ri-ri
 ry_ryu-ryu
 ry_rye-rye
 ry_ryo-ryo
-ry_N-rya
 
 w_wa-wa
 w_wi-wi
@@ -243,7 +197,6 @@ w_u_wa
 w_we-we
 w_wo-wo
 w_N-wa
-w_wa-w
 
 v_va-va
 v_vi-vi
@@ -252,44 +205,6 @@ v_ve-ve
 v_vo-vo
 v_N-vu
 v_vu-v
-
-rr_rra-rra
-rr_rri-rri
-rr_rru-rru
-rr_rre-rre
-rr_rro-rro
-rr_N-rra
-
-l_la-la
-l_li-li
-l_lu-lu
-l_le-le
-l_lo-lo
-l_N-la
-
-wr_wra-wra
-wr_wri-wri
-wr_wru-wru
-wr_wre-wre
-wr_wro-wro
-wr_N-wra
-wr_wra-wr
-
-th_tha-tha
-th_thi-thi
-th_thu-thu
-th_the-the
-th_tho-tho
-th_N-tha
-th_tha-th
-
-dh_dha-dha
-dh_dhi-dhi
-dh_dhu-dhu
-dh_dhe-dhe
-dh_dho-dho
-dh_N-dha
-dh_dha-dh
 
 a-a-i-a-u-a
 i-i-u-i-e-i

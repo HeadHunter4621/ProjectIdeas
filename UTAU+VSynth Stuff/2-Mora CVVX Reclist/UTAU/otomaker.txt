@@ -259,7 +259,7 @@ l_N-la	N l
 
 wr_wra-wra	- wr,a wr,wra
 wr_wri-wri	i wr,wri
-wr_wru-wru	u wr,wru 
+wr_wru-wru	u wr,wru
 wr_wre-wre	e wr,wre
 wr_wro-wro	o wr,wro
 wr_N-wra	N wr
@@ -273,7 +273,7 @@ th_tho-tho	o th,tho
 th_N-tha	N th
 th_tha-th	th -
 
-dh_dha-dha	- dh,a dh,dha 
+dh_dha-dha	- dh,a dh,dha
 dh_dhi-dhi	i dh,dhi
 dh_dhu-dhu	u dh,dhu
 dh_dhe-dhe	e dh,dhe
@@ -290,15 +290,12 @@ o-o-a-o-i-o	- o,o o,o a,a o,o i,i o,o -
 N_N-N-a-N-i-N	- N,N N,N a,a N,N i,i N,N -
 N_N-u-N-e-N-o-N	N u,u N,N e,e N,N o,o N
 
-a'a-fr	a ',' a,a Fr
-a-In-a-Ex	a In,a Ex
-i'i-fr	i ',' i,i Fr
-i-In-i-Ex	i In,i Ex
-u'u-fr	u ',' u,u Fr
-u-In-u-Ex	u In,u Ex
-e'e-fr	e ',' e,e Fr
-e-In-e-Ex	e In,e Ex
-o'o-fr	o ',' o,o Fr
-o-In-o-Ex	o In,o Ex
-N'N-fr	N ',' N,N Fr
-N-In-N-Ex	N In,N Ex
+a'a-fr  a ',' a,a Fr
+i'i-fr  i ',' i,i Fr
+u'u-fr  u ',' u,u Fr
+e'e-fr  e ',' e,e Fr
+o'o-fr  o ',' o,o Fr
+N'N-fr  N ',' N,N Fr
+
+In  I
+Ex  Ex
